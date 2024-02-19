@@ -20,20 +20,20 @@ Remove Tasks: If a task is completed or no longer relevant, users can remove it 
 Delete ALL Tasks: If a task is added into To-do List then we want change it or delete all enter another To-do lists so,user can delete all.
 Exit: This helpful to close or exit from To-do list
 
-##### Technical Details:
+#### Technical Details:
 
 The project will be implemented in Python, leveraging its simplicity and ease of use for a command-line application.
 The main data structure for the to-do list will be a Python list, allowing for easy addition and removal of tasks.
 File handling will be employed to read and write the to-do list to a local file, ensuring task persistence.
 The project will be modular, with separate classes or functions for adding, removing, and displaying tasks, as well as for user input handling.
 The command-line interface will be designed to display a menu of options and receive user input accordingly.
-#### User Interaction:
+### User Interaction:
 Upon running the application, users will be presented with a simple command-line menu, where they can select from the following options:
 
 Add Task: Allows users to input a new task description to be added to the to-do list.
 Remove Task: Asks the user to input the task they want to remove and confirms the deletion.
 Exit: Exits the application and saves the to-do list to a file for future use.
-#### Conclusion: 
+### Conclusion: 
 The "Simple To-Do List Manager" is an efficient and user-friendly Python application that allows users to maintain and organize their to-do lists effortlessly. 
 By providing a straightforward command-line interface, the project enables users to focus on their tasks and stay on top of their daily responsibilities. 
 With potential enhancements, the application can be expanded to cater to more complex task management needs and contribute to improved productivity and time management for users.
@@ -56,7 +56,7 @@ Error Handling: The calculator implements error handling to prevent invalid calc
 The project is developed in Python using the Tkinter library for the graphical user interface.
 The calculator's display field is implemented using a Tkinter Entry widget to show the user's input and the result of calculations.
 The number and operator buttons are created using Tkinter Button widgets, and their corresponding functions are bound to the buttons to handle user interactions.
-#### User Interaction: 
+### User Interaction: 
 Upon launching the application, users will be presented with a simple GUI calculator. They can interact with the calculator using the following features:
 
 -> Click on number buttons (0-9) to input numerical values.
@@ -70,7 +70,7 @@ Support for more advanced arithmetic operations (e.g., exponentiation, square ro
 Implementation of keyboard input for numerical values and operators.
 Incorporation of memory functionality to store and recall previous calculations.
 Integration of a theme switcher to provide different visual styles for the calculator.
-#### Conclusion: 
+### Conclusion: 
 The "Basic GUI Calculator" is a straightforward and user-friendly Python application that allows users to perform basic arithmetic calculations through an intuiti intuitive graphical interface. By providing real-time input display and result updates, the calculator facilitates smooth interactions and helps users carry out mathematical operations efficiently.
 With potential enhancements, the application can be expanded to accommodate more advanced calculations and personalized customization options, catering to a wider range of user preferences and mathematical needs.
 
@@ -88,7 +88,7 @@ The project provides a command-line interface, allowing users to customize the p
 -> Set password length to meet security requirements.
 ->Generate a specified number of random passwords.
 ->Create strong and unique passwords for various purposes.
-#### Technical Details:
+### Technical Details:
 
 The project is developed in Python, leveraging its random module to generate random characters for the password.
 The application will utilize Python's string module to store character sets for different types of characters (uppercase letters, lowercase letters, digits, and special symbols).
@@ -97,10 +97,12 @@ The application will utilize Python's string module to store character sets for 
 The Password will be generate random by given length.
 
 
+
 ## Task1-TO DO List Screenshots
 ![To doList task-1](https://github.com/Kongarasailatha/CODSOFT-INTERNSHIP/assets/140708197/257bc7df-e1ab-4525-b66d-1cc1fb1408e3)
 ## Task-2 - Basic Calculator Screenshots
 ![Bsic Calculator](https://github.com/Kongarasailatha/CODSOFT-INTERNSHIP/assets/140708197/017bde35-da17-43ee-bb7f-b4c146c5d3ec)
-## Task-3 - Generate password Screenshots![Uploading Generator password task-2.png…]()
+## Task-3 - ![Generator password task-2](https://github.com/Kongarasailatha/CODSOFT-INTERNSHIP/assets/140708197/b4c51cba-da04-404e-a292-309cc0a6fe4e)
+
 
 
